@@ -15,5 +15,9 @@
     "request": "^2.60.0",
     "underscore": "^1.8.3",
     "yargs": "^3.15.0"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2"
   }
 }
